@@ -1,5 +1,5 @@
 # package-aliyun-sms
-aliyun Sms Package
+Aliyun Sms Package
 
 Quick Installation
 ------------------
